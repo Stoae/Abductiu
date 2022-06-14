@@ -10,10 +10,12 @@ EBM is a glassbox model indented to have comparable accuracy to machine learning
 <img src=https://user-images.githubusercontent.com/42652705/173630390-811a6580-59f2-4e33-bd88-c8e527ae7e95.png width="600">
 
 ## XGB
+XGB is a scalable and highly accurate implementation of gradient boosting that pushes the limits of computing power for boosted tree algorithms, being built largely for energizing machine learning model performance and computational speed. With XGB, trees are built in parallel, instead of sequentially like GBDT. It follows a level-wise strategy, scanning across gradient values and using these partial sums to evaluate the quality of splits at every possible split in the training set. 
 
 <img src=https://user-images.githubusercontent.com/42652705/173631133-384c2175-fde8-4f75-a856-a79ef5e9b28e.png width="600">
 
 ## Spline
+Spline Regression is a non-parametric regression technique. This regression technique divides the datasets into bins at intervals or points called knots and each bin has its separate fit.
 
 <img src=https://user-images.githubusercontent.com/42652705/173635130-5121d4ff-74ff-40d7-a616-dc2a1d409414.png width="600">
 
