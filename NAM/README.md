@@ -7,6 +7,11 @@
 
 ![1_gMiM2ErcF0YZnO5lYVXOyA](https://user-images.githubusercontent.com/42652705/173630390-811a6580-59f2-4e33-bd88-c8e527ae7e95.png)
 
+## XGB
+
+![A-general-architecture-of-XGBoost](https://user-images.githubusercontent.com/42652705/173631133-384c2175-fde8-4f75-a856-a79ef5e9b28e.png)
+
+
 
 ## Reference
 
