@@ -11,6 +11,9 @@
 
 <img src=https://user-images.githubusercontent.com/42652705/173631133-384c2175-fde8-4f75-a856-a79ef5e9b28e.png width="600">
 
+## Spline
+
+<img src=https://user-images.githubusercontent.com/42652705/173635130-5121d4ff-74ff-40d7-a616-dc2a1d409414.png width="600">
 
 
 ## Reference
