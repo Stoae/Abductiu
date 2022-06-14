@@ -1,6 +1,6 @@
 ## NAM
 
-<img src=https://user-images.githubusercontent.com/42652705/173630643-1a0aa804-83ae-4c2a-832b-58c5abc7d66e.png width="300">
+<img src=https://user-images.githubusercontent.com/42652705/173630643-1a0aa804-83ae-4c2a-832b-58c5abc7d66e.png width="600">
 
 
 ## EBM
