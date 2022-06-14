@@ -52,6 +52,24 @@ XGB is a scalable and highly accurate implementation of gradient boosting that p
 ## Spline
 Spline Regression is a non-parametric regression technique. This regression technique divides the datasets into bins at intervals or points called knots and each bin has its separate fit.
 
+rSpline:
+| name | value |
+| --- | ---|
+| random_state | 1377 |
+| maxk | 100 |
+| nthreads | 30 | 
+| model_to_use | bam |
+
+Spline:
+| name | value |
+| --- | ---|
+| random_state | 1377 |
+| search | True |
+| max_iter | 500 |
+| n_splines | 50 |
+| fit_binary_feat_as_factor_term | False |
+| b= fit_binary_feat_as_factor_term | True |
+
 <img src=https://user-images.githubusercontent.com/42652705/173635130-5121d4ff-74ff-40d7-a616-dc2a1d409414.png width="600">
 
 
