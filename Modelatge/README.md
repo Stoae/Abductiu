@@ -68,7 +68,7 @@ Spline:
 | max_iter | 500 |
 | n_splines | 50 |
 | fit_binary_feat_as_factor_term | False |
-| b= fit_binary_feat_as_factor_term | True |
+| b | (fit_binary_feat_as_factor_term=True) |
 
 <img src=https://user-images.githubusercontent.com/42652705/173635130-5121d4ff-74ff-40d7-a616-dc2a1d409414.png width="600">
 
