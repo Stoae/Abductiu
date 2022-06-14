@@ -1,5 +1,5 @@
 # NAM
-This repository contains open-source code for the work: Teleològic i abductiu: Una aproximació als models additius per la interpretabilitat.
+
 
 ## Reference
 
