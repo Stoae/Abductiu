@@ -7,6 +7,22 @@ Neural Additive Models (NAMs) combine some of the expressivity of DNNs with the 
 ## EBM
 EBM is a glassbox model indented to have comparable accuracy to machine learning models such as Random Forest and Boosted Trees as well as interpretability capabilities. EBM is a Generalized Additive Model (GAM) which is very similar to linear models.EBM offers some improvements to traditional GAMs: each feature function is learned using modern machine learning technique such as bagging and boosting. Training is carried out in many iterations where each iteration consists of constructing a boosting procedure separately for each feature. As this is done with low learning rates, the order of the features does not matter. The high number of iterations aims to mitigate the effects of co-linearity in order to learn best what is the contribution of each feature to the model’s prediction. Furthermore, EBM can automatically detect and include pairwise interaction terms, this increases the accuracy of the model while preserving its explainability. Since EBM is an additive model, the contribution of each feature can be captured and visualized, and therefore enhance explainability.
 
+| name | value |
+| --- | ---|
+| random_state | 1377 |
+| test_size |  0.15 |
+| data_n_episodes | 30000 |
+| n_estimators | 1 |
+| feature_step_n_inner_bags | 0 |
+| n_jobs | -1 |
+| min_cases_for_splits | 2 |
+| binning_strategy | 'uniform' |
+| n_splits | 5 |
+| bf | best first |
+| o50 | (n_estimators= 50) |
+| i50 | (feature_step_n_inner_bags = 50) |
+| q | (binning_strategy= 'quantile') |
+
 <img src=https://user-images.githubusercontent.com/42652705/173630390-811a6580-59f2-4e33-bd88-c8e527ae7e95.png width="600">
 
 ## XGB
