@@ -1,4 +1,5 @@
 ## NAM
+Neural Additive Models (NAMs) combine some of the expressivity of DNNs with the inherent intelligibility of generalized additive models. NAMs learn a linear combination of neural networks that each attend to a single input feature. These networks are trained jointly and can learn arbitrarily complex relationships between their input feature and the output. Our experiments on regression and classification datasets show that NAMs are more accurate than widely used intelligible models such as logistic regression and shallow decision trees. They perform similarly to existing state-of-the-art generalized additive models in accuracy, but can be more easily applied to real-world problems.
 
 <img src=https://user-images.githubusercontent.com/42652705/173630643-1a0aa804-83ae-4c2a-832b-58c5abc7d66e.png width="600">
 
