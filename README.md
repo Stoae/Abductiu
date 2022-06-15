@@ -14,6 +14,14 @@ This work analyzes the syntax of models and, through the methodology of data sci
 
 <img src=https://user-images.githubusercontent.com/42652705/173816310-1908534c-4283-46b2-ba6f-3b3bcd45a94a.jpg width="600">
 
+## Models
+
+[Modelatge](Modelatge/)
+
+[Visualització](Modelatge/visualitzacions.ipynb)
+
+[Resultats Predictius Models](Modelatge/results/050522_dataset.csv)
+
 
 
 
