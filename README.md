@@ -16,6 +16,8 @@ This work analyzes the syntax of models and, through the methodology of data sci
 
 ## Models
 
+[Exploratori](Modelatge/exploratori.ipynb)
+
 [Modelatge](Modelatge/)
 
 [Visualització](Modelatge/visualitzacions.ipynb)
