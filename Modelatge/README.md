@@ -78,3 +78,7 @@ Spline:
 > Agarwal, R., Melnick, L., Frosst, N., Zhang, X., Lengerich, B., Caruana,
 > R., & Hinton, G. E. (2021). Neural additive models: Interpretable machine > learning with neural nets. Advances in Neural Information Processing
 > Systems, 34.
+
+> Chang, C. H., Tan, S., Lengerich, B., Goldenberg, A., & Caruana, R. (2021, August). 
+> How interpretable and trustworthy are gams?. 
+> In Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining (pp. 95-105).
